@@ -1,7 +1,7 @@
 
 "use client";
 import React, { useState } from 'react';
-import TeacherSettings from '@/pages/TeacherSettings';
+import TeacherSettings from '@/views/TeacherSettings';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 import BottomNav from '@/components/BottomNav';

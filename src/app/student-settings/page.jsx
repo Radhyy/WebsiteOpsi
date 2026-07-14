@@ -1,6 +1,6 @@
 
 "use client";
-import StudentSettings from '@/pages/StudentSettings';
+import StudentSettings from '@/views/StudentSettings';
 
 export default function Page() {
   return (

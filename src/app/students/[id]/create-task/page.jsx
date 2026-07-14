@@ -1,7 +1,7 @@
 
 "use client";
 import React, { useState } from 'react';
-import CreateTask from '@/pages/CreateTask';
+import CreateTask from '@/views/CreateTask';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 import BottomNav from '@/components/BottomNav';

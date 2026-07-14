@@ -1,7 +1,7 @@
 
 "use client";
 import React, { useState } from 'react';
-import InputScore from '@/pages/InputScore';
+import InputScore from '@/views/InputScore';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 import BottomNav from '@/components/BottomNav';

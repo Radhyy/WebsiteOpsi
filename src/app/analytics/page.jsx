@@ -1,7 +1,7 @@
 
 "use client";
 import React, { useState } from 'react';
-import Analytics from '@/pages/Analytics';
+import Analytics from '@/views/Analytics';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 import BottomNav from '@/components/BottomNav';

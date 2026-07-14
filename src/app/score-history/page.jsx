@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from 'react';
-import ScoreHistory from '@/pages/ScoreHistory';
+import ScoreHistory from '@/views/ScoreHistory';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 import BottomNav from '@/components/BottomNav';

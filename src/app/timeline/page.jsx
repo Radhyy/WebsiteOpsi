@@ -1,7 +1,7 @@
 
 "use client";
 import React, { useState } from 'react';
-import Timeline from '@/pages/Timeline';
+import Timeline from '@/views/Timeline';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 import BottomNav from '@/components/BottomNav';

@@ -1,7 +1,7 @@
 
 "use client";
 import React, { useState } from 'react';
-import AddStudent from '@/pages/AddStudent';
+import AddStudent from '@/views/AddStudent';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 import BottomNav from '@/components/BottomNav';

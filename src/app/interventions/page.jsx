@@ -1,7 +1,7 @@
 
 "use client";
 import React, { useState } from 'react';
-import InterventionHub from '@/pages/InterventionHub';
+import InterventionHub from '@/views/InterventionHub';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 import BottomNav from '@/components/BottomNav';

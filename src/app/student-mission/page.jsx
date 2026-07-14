@@ -1,6 +1,6 @@
 
 "use client";
-import StudentMission from '@/pages/StudentMission';
+import StudentMission from '@/views/StudentMission';
 
 export default function Page() {
   return (

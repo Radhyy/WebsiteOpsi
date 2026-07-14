@@ -1,7 +1,7 @@
 
 "use client";
 import React, { useState } from 'react';
-import Dashboard from '@/pages/Dashboard';
+import Dashboard from '@/views/Dashboard';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 import BottomNav from '@/components/BottomNav';
